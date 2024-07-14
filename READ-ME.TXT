@@ -1,0 +1,39 @@
+.. URL attached here to start and stop the jobs in written in this application.
+.. All URL's are provided for test instance only, when you use change to production.
+.. Replace the below url for DEV and PROD.
+.. For Dev  - https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com
+.. For PROD - https://jcstatweert1-noor3ttar.java.em2.oraclecloudapps.com
+
+
+INVOICE STATUS UPDATES [DEV]: 
+
+To Update Now	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/invoiceservlet?action=update-now
+To Start Job	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/invoiceservlet?action=start-job
+To Stop Job		:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/invoiceservlet?action=stop-job
+
+
+EXIT/CLEARANCE AUTO-APPROVAL [DEV]: 
+
+To Update Now	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/exitformapproval?action=update-now
+To Start Job	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/exitformapproval?action=start-job
+To Stop Job		:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/exitformapproval?action=stop-job
+
+
+TRAINEES EXIT/CLEARANCE AUTO-APPROVAL [DEV]: 
+
+To Update Now	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/traineesexitapprovalservlet?action=update-now
+To Start Job	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/traineesexitapprovalservlet?action=start-job
+To Stop Job		:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/traineesexitapprovalservlet?action=stop-job
+
+
+PR REJECTION NOTIFICATION APPROVAL [DEV]: 
+
+To Update Now	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/prrejnotifyservlet?action=update-now
+To Start Job	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/prrejnotifyservlet?action=start-job
+To Stop Job		:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/prrejnotifyservlet?action=stop-job
+
+PR PAYMENT NOTIFICATION APPROVAL [DEV]: 
+
+To Update Now	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/prpaymentservlet?action=update-now
+To Start Job	:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/prpaymentservlet?action=start-job
+To Stop Job		:	https://sxtatweerdev-noor3ttar.java.em2.oraclecloudapps.com/TatweerPaaSJob/prpaymentservlet?action=stop-job
